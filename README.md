@@ -1,0 +1,1 @@
+# Forensic-Artifacts-of-Active-Directory-Scenerio
